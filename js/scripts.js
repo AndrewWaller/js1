@@ -15,4 +15,5 @@ function button() {
   //Steps 3&4
   let backgroundColor = prompt("What is your favorite color?","");
   pTag.style.backgroundColor = backgroundColor;
+  //Steps 5&6
 };
